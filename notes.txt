@@ -1,0 +1,17 @@
+HTTP Verbs
+ - GET - grabs the information
+ - POST - puts information on the server
+ - PUT/PATCH - appends/fixes
+ - DELETE - removes information
+
+
+AJAX
+ -
+
+ JSON
+  - the exact same thing as javascript object notation
+  - ONLY DIFFERENCE IS
+   - the response will need a nameless object in order for the backend server to all upon it
+   - data type cab be a string, integer, boolean, array
+   - CANNOT USE SINGLE QUOTES
+   - CANNOT BE A DATE DATA TYPE , but can be displayed as a string
