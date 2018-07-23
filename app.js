@@ -7,4 +7,7 @@ function Get(url){
   return request.responseText;
 }
 var jsonURL = JSON.parse(Get(url));
-console.log("this is " + jsonURL.type);
+console.log("this is " + jsonURL.crystalGems.gems.Garnet.type);
+
+
+document.getElementById('name').innerHTML = jsonURL.crystalGems.gems.Garnet.type;

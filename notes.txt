@@ -15,3 +15,7 @@ AJAX
    - data type cab be a string, integer, boolean, array
    - CANNOT USE SINGLE QUOTES
    - CANNOT BE A DATE DATA TYPE , but can be displayed as a string
+
+
+FRAMEWORKS
+ - 

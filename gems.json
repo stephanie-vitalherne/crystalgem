@@ -2,16 +2,19 @@
   "crystalGems" : {
     "gems" : {
       "Garnet": {
+        "name": "Garnet",
         "weapon": "gauntlets",
         "hair": "Indigo-black",
         "type": "Fusion"
       },
       "Amethyst": {
+        "name": "Amethyst",
         "weapon": "whip",
         "hair": "Pale lavender",
         "type": "Quartz"
       },
       "Pearl": {
+        "name": "Pearl",
         "weapon": "spear",
         "hair": "Peach",
         "type": "Pearl"
