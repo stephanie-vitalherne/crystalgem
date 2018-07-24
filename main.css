@@ -1,0 +1,14 @@
+body {
+  background-color: #345555;
+}
+
+#garnet{
+  background-image: url("images/garBack.png");
+  background-position: center;
+  background-size: cover;
+  background: linear-gradient(rgba 0, 0, 0, 0.5);)
+}
+
+.column{
+  height: 500px;
+}
