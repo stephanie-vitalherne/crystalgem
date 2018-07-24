@@ -3,12 +3,34 @@ body {
 }
 
 #garnet{
-  background-image: url("images/garBack.png");
+  background-image: url("images/garBack2.jpg");
   background-position: center;
   background-size: cover;
   background: linear-gradient(rgba 0, 0, 0, 0.5);)
+  /* max-width: 90%; */
 }
 
 .column{
+  max-width: 80%;
   height: 500px;
+  left: 4.5%;
+  grid-gap: 10px;
+}
+
+#pearl{
+  background-image: url("images/peaBack.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#amethyst{
+  background-image: url("images/ameBack.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#steven{
+  background-image: url("images/steven.jpg");
+  background-position: center;
+  background-size: cover;
 }

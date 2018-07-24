@@ -18,6 +18,12 @@
         "weapon": "spear",
         "hair": "Peach",
         "type": "Pearl"
+      },
+      "Steven":{
+        "name": "Steven",
+        "weapon": "",
+        "hair": "",
+        "type": ""
       }
     }
   }
