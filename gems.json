@@ -3,26 +3,26 @@
     "gems" : {
       "Garnet": {
         "name": "Garnet",
-        "weapon": "gauntlets",
-        "hair": "Indigo-black",
+        "weapon": "Gauntlets",
+        "hair": "Indigo-Black",
         "type": "Fusion"
       },
       "Amethyst": {
         "name": "Amethyst",
-        "weapon": "whip",
-        "hair": "Pale lavender",
+        "weapon": "Whip",
+        "hair": "Pale Lavender",
         "type": "Quartz"
       },
       "Pearl": {
         "name": "Pearl",
-        "weapon": "spear",
+        "weapon": "Spear",
         "hair": "Peach",
         "type": "Pearl"
       },
       "Steven":{
         "name": "Steven",
-        "weapon": "shield",
-        "hair": "Dark brown",
+        "weapon": "Shield",
+        "hair": "Dark Brown",
         "type": "Diamond"
       }
     }
