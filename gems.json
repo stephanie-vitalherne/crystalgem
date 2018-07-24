@@ -21,9 +21,9 @@
       },
       "Steven":{
         "name": "Steven",
-        "weapon": "",
-        "hair": "",
-        "type": ""
+        "weapon": "shield",
+        "hair": "Dark brown",
+        "type": "Diamond"
       }
     }
   }
